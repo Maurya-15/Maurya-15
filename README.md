@@ -50,26 +50,3 @@ authentication, database integration, and deployment. Passionate about deliverin
 </a>
 </p>
 
----
-
-### 📌 Top Repositories  
-
-<div width="100%" align="center">
-  <a href="https://github.com/Maurya-15/Skiplyy" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Maurya-15&repo=Skiplyy&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/Maurya-15/FreelanceHub" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Maurya-15&repo=FreelanceHub&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" />
-  </a>
-</div>  
-
-<br /><br /><br />
-
-<div width="100%" align="center">
-  <a href="https://github.com/Maurya-15/Cricket-Team-Reccomender" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Maurya-15&repo=Cricket-Team-Reccomender&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/Maurya-15/Outfit-Generator" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Maurya-15&repo=Outfit-Generator&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" />
-  </a>
-</div>
