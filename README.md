@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Maurya doshi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Maurya Doshi
 =====================================================================================================================================
 
 Web Developer
@@ -36,17 +36,18 @@ authentication, database integration, and deployment. Passionate about deliverin
 
 ---
 
-### 🌐 Socials  
+## 🌐 Connect with me  
 
-<p align="left"> 
-<a href="https://www.github.com/Maurya-15" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-</a> 
-<a href="https://www.gitlab.com/Maurya-15" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" />
-</a> 
-<a href="https://www.linkedin.com/in/maurya-doshi-79073227a/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-</a>
+<p align="left">
+  <a href="https://github.com/Maurya-15" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" width="40" style="margin-right: 20px;"/>
+  </a>
+  <a href="https://gitlab.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/ffffff/gitlab.png" alt="GitLab" width="40" style="margin-right: 20px;"/>
+  </a>
+  <a href="https://linkedin.com/in/maurya-doshi-79073227a" target="_blank">
+    <img src="https://img.icons8.com/color/48/ffffff/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
 </p>
+
 
