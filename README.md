@@ -30,4 +30,46 @@ authentication, database integration, and deployment. Passionate about deliverin
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-genera_
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+</p>
+
+---
+
+### 🌐 Socials  
+
+<p align="left"> 
+<a href="https://www.github.com/Maurya-15" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+</a> 
+<a href="https://www.gitlab.com/Maurya-15" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" />
+</a> 
+<a href="https://www.linkedin.com/in/maurya-doshi-79073227a/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+</a>
+</p>
+
+---
+
+### 📌 Top Repositories  
+
+<div width="100%" align="center">
+  <a href="https://github.com/Maurya-15/Skiplyy" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Maurya-15&repo=Skiplyy&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Maurya-15/FreelanceHub" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Maurya-15&repo=FreelanceHub&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" />
+  </a>
+</div>  
+
+<br /><br /><br />
+
+<div width="100%" align="center">
+  <a href="https://github.com/Maurya-15/Cricket-Team-Reccomender" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Maurya-15&repo=Cricket-Team-Reccomender&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Maurya-15/Outfit-Generator" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Maurya-15&repo=Outfit-Generator&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" />
+  </a>
+</div>
